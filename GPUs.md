@@ -1,4 +1,4 @@
-## 1. **3D S3-824 [0.5 BTC]**
+## 1. **3D S3-824 [1.5 BTC]**
 + **Rarity:** Legendary
 + **Level:** 1
 + **Idle Crypto Mining:** 0.00004377 BTC/s ($2.805)
