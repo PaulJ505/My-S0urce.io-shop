@@ -1,4 +1,5 @@
 ## **1. 3D A4-824 [0.3 BTC]**
++ **Rarity:** Epic
 + **Firewall Health:** 175.81
 + **Firewall Damage Reduction:** 7.99%
 + **Firewall Advanced Encryption:** 28.33
