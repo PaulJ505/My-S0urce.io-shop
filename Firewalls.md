@@ -10,6 +10,14 @@
 + **Rarity:** Epic
 + **Level:** 1
 + **Firewall Health:** 174.89
++ **Firewall Damage Reduction:** 8.16 %
 + **Firewall Master Encryption:** 16.80
-+ **Firewall Damage:** 8.16 %
 + **Firewall Regeneration:** 6.96
+
+## **3. 3D A4-824 [0.3 BTC]**
++ **Rarity:** Epic
++ **Level:** 1
++ **Firewall Health:** 188.97
++ **Firewall Damage Reduction:** 9.40 %
++ **Firewall Master Encryption:** 14.14
++ **Firewall Regeneration:** 3.64
